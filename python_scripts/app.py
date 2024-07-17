@@ -49,7 +49,7 @@ with right_column_u:
 st.subheader("Eathquake Frequency and Magnitude Analytics")
 
 # Create columns for layout
-left_column_l, middle_column_l, right_column_l = st.columns([3, 2.8, 3])
+left_column_l, middle_column_l, right_column_l = st.columns([3, 2.5, 3])
 
 with left_column_l:
     # Get user input for plotting adaption.
