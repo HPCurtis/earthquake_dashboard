@@ -29,8 +29,8 @@ A fast response-time application interactive dashboard to present the data the c
 
 Looking at our analysis, we can quickly see that over the 30 day period:
 
-The Philippines had the biggest earthquake, followed by Chile and Oklahoma
-However the locations with the largest earthquakes on average were Samoa, Svalbard & Jan Mayen, and Vanuatu
-Most of the earthquakes were in North America by broad location, by a large margin
-At a more granular level, Puerto Rico, Hawaii and Alaska had the most frequent earthquakes
-Visually we can see the earthquake fault lines on the map
+- The Philippines had the biggest earthquake, followed by Chile and Oklahoma.
+- However, the locations with the largest earthquakes on average were Samoa, Svalbard & Jan Mayen, and Vanuatu
+- Most of the earthquakes were in North America by a large margin
+- At a more granular level, Puerto Rico, Hawaii and Alaska had the most frequent earthquakes.
+- Visually we can see the earthquake fault lines on the map
