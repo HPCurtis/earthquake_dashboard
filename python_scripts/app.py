@@ -62,7 +62,6 @@ with left_column_l:
 if sorting_option == "Alphabetical":  
    df = merge_df(df, QA)
    df = df.sort_values(by="location", ascending=False).reset_index(drop=True)
-   print(df)
 else:
     df = merge_df(df, QA) 
 
