@@ -34,3 +34,5 @@ Looking at our analysis, we can quickly see that over the 30 day period:
 - Most of the earthquakes were in North America by a large margin
 - At a more granular level, Puerto Rico, Hawaii and Alaska had the most frequent earthquakes.
 - Visually we can see the earthquake fault lines on the map
+
+[use dashboard here](https://hpcurtis-earthquake-dashboard-python-scriptsapp-5mt9wm.streamlit.app/)
