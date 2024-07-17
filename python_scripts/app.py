@@ -9,7 +9,7 @@ from data_merge import merge_df
 QA = QuakeAnalytics()
 
 # Read in the dataset for earthqaukes from github
-df = pd.read_csv("../data/earthquake-data.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/HPCurtis/earthquake_dashboard/main/data/earthquake-data.csv")
 df['datetime'] = pd.to_datetime(df['datetime'], format= '%d/%m/%Y %H:%M')
 
 col1, col2 = st.columns([3, 1])
